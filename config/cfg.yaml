@@ -6,4 +6,4 @@
   
 - name : llm_model
   model_name : "models/text-bison-001"
-  api_key    : "AIzaSyDMYfnOSZOLa2uqnMwp5wkXYmDLiFIjz1I"
+  api_key    : "..."
