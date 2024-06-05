@@ -3,7 +3,7 @@
 ## Usage
 0. Clone the repository to your local machine.
 
-1. Get the your Gemini API key at [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key) and pass it into config/cfg.yaml ("api_key": "...").
+1. Get the your Gemini api-key at [https://ai.google.dev/gemini-api/docs/api-key](https://ai.google.dev/gemini-api/docs/api-key) and pass it into config/cfg.yaml ("api_key": "...").
 
 2. Create pythonn env: 
 ```
