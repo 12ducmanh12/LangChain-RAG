@@ -1,0 +1,9 @@
+- name : database
+  embedding_model : "BAAI/bge-small-en-v1.5"
+  environment:
+    index_name : "ai-doc"
+    api_key    : 'f95eaf76-972f-4773-8472-fe16dfe79de0'
+  
+- name : llm_model
+  model_name : "models/text-bison-001"
+  api_key    : "AIzaSyDMYfnOSZOLa2uqnMwp5wkXYmDLiFIjz1I"
