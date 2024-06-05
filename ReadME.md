@@ -14,7 +14,7 @@ python -m pip install -r requirements.txt
 ```
 4. Run the FastAPI server:
 ```
-python source/main.py
+python main.py
 ```
 5. View the Swagger Docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
