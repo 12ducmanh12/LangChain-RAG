@@ -17,7 +17,6 @@ app.add_middleware(
 )
 
 
-
 app.include_router(search.router)
 
 @app.get("/")
